@@ -1,6 +1,14 @@
 #include <iostream>
+#include <string>
 
 int main() {
-    std::cout << "Hello, Git!\n";
+    std::string name;
+
+    std::cout << "Enter your name: ";
+    std::cin >> name;
+
+    
+    std::cout << "Hello, " << name << "!\n";
+
     return 0;
 }
