@@ -14,7 +14,7 @@ int main() {
     }
     while(name.empty());
 
-    std::cout << "Hello, " << name << "!\n";
+    std::cout << "Welcome, " << name << "!\n";
 
     return 0;
 }
