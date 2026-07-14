@@ -1,0 +1,3 @@
+# Git Training
+
+A small C++ project for learning Git.
